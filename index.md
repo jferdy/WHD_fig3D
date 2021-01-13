@@ -8,7 +8,7 @@ The figure below illustrates the dynamics of pathogen inside the infected host.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-[index.html](https://jferdy.github.io/WHD_fig3D/main/index.html) 
+[index.html](index.html) 
 
 
 ### Support or Contact
