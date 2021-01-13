@@ -8,7 +8,7 @@ The figure below illustrates the dynamics of pathogen inside the infected host.
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
-[index.html](main/index.html) 
+[index.html](3Dfigure.html) 
 
 
 ### Support or Contact
