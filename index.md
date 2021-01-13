@@ -2,7 +2,7 @@
 
 The figure below illustrates the dynamics of pathogen inside the infected host.
 
-[ling to html page here: does not work!](3Dfigure.html)
+[ling to html page here: does not work!](http://3Dfigure.html)
 
 ### Support or Contact
 
