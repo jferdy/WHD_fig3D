@@ -3,7 +3,7 @@
 The figure below illustrates the dynamics of pathogen inside the infected host.
 
 test
-[ling to html page here: does not work!](http://jferdy.github.io/WHD_fig3D/3Dfigure.html)
+[ling to html page here: does not work!](https://jferdy.github.io/WHD_fig3D/3Dfigure.html)
 
 ### Support or Contact
 
