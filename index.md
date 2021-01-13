@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## A Within Host Dynamics model
 
-You can use the [editor on GitHub](https://github.com/jferdy/WHD_fig3D/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The figure below illsutrates the dynamics of pathogen inside the infected host.
 
 ### Markdown
 
