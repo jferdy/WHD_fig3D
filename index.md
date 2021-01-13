@@ -1,7 +1,7 @@
 ## A Within Host Dynamics model
 
 
-The figure below illsutrates the dynamics of pathogen inside the infected host.
+The figure below illustrates the dynamics of pathogen inside the infected host.
 
 ### Markdown
 
