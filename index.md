@@ -7,9 +7,8 @@ The figure below illustrates the dynamics of pathogen inside the infected host.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-[index.html](http://index.html)
-```
+
+[index.html](https://index.html)
 
 
 ### Support or Contact
